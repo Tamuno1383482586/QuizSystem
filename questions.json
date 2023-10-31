@@ -1,0 +1,13 @@
+[
+  {
+    "question": "Full Meaning of HTML?",
+    "options": [
+      { "a": "Hyper Text Transfer Protocol", "id": 1 },
+      { "b": "Hyper Text Markup Language", "id": 2 },
+      { "c": "Hyper Text Message Language", "id": 3 },
+      { "d": "Hyper Text Manual Protocol", "id": 4 }
+    ],
+    "answer": "b"
+  }
+  
+]
