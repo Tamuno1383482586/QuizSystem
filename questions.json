@@ -2,12 +2,30 @@
   {
     "question": "Full Meaning of HTML?",
     "options": [
-      { "a": "Hyper Text Transfer Protocol", "id": 1 },
-      { "b": "Hyper Text Markup Language", "id": 2 },
-      { "c": "Hyper Text Message Language", "id": 3 },
-      { "d": "Hyper Text Manual Protocol", "id": 4 }
-    ],
-    "answer": "b"
+      { "a": "Hyper Text Transfer Protocol", "id": 1,"correct":false },
+      { "b": "Hyper Text Markup Language", "id": 2 ,"correct":true},
+      { "c": "Hyper Text Message Language", "id": 3 ,"correct":false},
+      { "d": "Hyper Text Manual Protocol", "id": 4 ,"correct":false}
+    ]
+  },
+  {
+    "question": "Full Meaning of PHP?",
+    "options": [
+      { "a": "Personal Home Program", "id": 1, "correct": false },
+      { "b": "Hyper Pre Program", "id": 2, "correct": false },
+      { "c": "Hypertext Preprocessor", "id": 3, "correct": true },
+      { "d": "Programming Home Personal", "id": 4, "correct": false }
+      ]
   }
-  
+,
+ {
+    "question": "Full Meaning of PHP?",
+    "options": [
+      { "a": "Personal Home Program", "id": 1, "correct": false },
+      { "b": "Hyper Pre Program", "id": 2, "correct": false },
+      { "c": "Hypertext Preprocessor", "id": 3, "correct": true },
+      { "d": "Programming Home Personal", "id": 4, "correct": false }
+      ]
+  }
+
 ]
